@@ -10,3 +10,6 @@
 -Escuchar música
 -Jugar Videojuegos
 -Ver películas
+
+
+**Correo:** ejemplo@gmail.com
